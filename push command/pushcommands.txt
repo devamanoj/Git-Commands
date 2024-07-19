@@ -1,0 +1,14 @@
+git 
+in git how to push the folder in git by using command:
+1.in the folder write cmd
+2. git init
+create the new repositry in the github and in that repositry you have the"git remote add origin" 
+for example : git remote add origin https://github.com/devamanoj/Python-changepond.git
+3.paste the command in the cmd
+4.git add .
+5.git commit -m "upload python notes"- for example
+6.git push
+7.nxt it will show this command git push --set-upstream origin master
+8.paste it
+9.it push the folder .
+10.completed
